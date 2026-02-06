@@ -1,4 +1,4 @@
-# Basics of Python
+# Experiment 2: Basics of Python programming
 In this experiment there is a brief description about the basic commands used in Python with their examples. It includes defining a variable, getting input from the user, performing basic arithmetic operations, and connecting it with real-life examples such as a simple calculator.
  
 ## Aim
