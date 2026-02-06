@@ -1,7 +1,7 @@
-# Experiment 1: Introduction to Python Programming
+# Experiment 1: Introduction to Python programming
 
 ## Title
-Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
+Introduction to Python programming and installation of Jupyter Notebook using Anaconda
 
 ---
 
