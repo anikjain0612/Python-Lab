@@ -4,53 +4,14 @@
 
 To study and implement looping statements in Python and understand repetition of statements using different loop constructs.
 
-## Introduction
+## Objectives
 
-
-Loops are an essential concept in Python programming used to execute a block of code repeatedly. Instead of writing the same instructions multiple times, loops automate repetition and make programs efficient and readable.
-
-This project demonstrates the practical use of while loops and for loops through multiple programs such as mathematical calculations, number operations, searching, matrix operations, and pattern printing.
-
-## Objectives 
-
-Understand iteration using while and for loops
-
-Learn input-based looping
-
-Practice mathematical programs using loops
-
-Study loop control statements (break & continue)
-
-Learn nested loops using patterns and matrices
-
-Observe logic building using real examples
-
-Practice pattern printing and number problems
-
-
-
-### Key Concepts Covered
-
-while loop
-
-for loop
-
-break statement
-
-continue statement
-
-conditional statements
-
-nested loops
-
-list traversal
-
-matrix operations
-
-pattern generation
-
-number-based algorithms
-
+* To understand the concept of loops
+* To implement `for` and `while` loops
+* To use nested loops
+* To apply loop control statements like `break`, `continue`, and `pass`
+* To solve real-life programming problems using loops
+  
 ## Theory
  While Loop
 
