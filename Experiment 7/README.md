@@ -1,5 +1,9 @@
 # Experiment 7: Study of loops in python
 
+## Aim
+
+To study the NumPy library in Python and implement various numerical operations using NumPy arrays and built-in functions.
+
 ## Introduction
 
 
