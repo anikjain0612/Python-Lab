@@ -1,6 +1,4 @@
-# Experiment 7
-
-## Title : Study of loops in python
+# Experiment 7: Study of loops in python
 
 ## Introduction
 
