@@ -1,6 +1,6 @@
 # Experiment 7: Study of loops in python
 
-## **Aim**
+## Aim
 
 To study and implement looping statements in Python and understand repetition of statements using different loop constructs.
 
