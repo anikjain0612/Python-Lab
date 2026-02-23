@@ -1,196 +1,182 @@
-# Experiment 7: Study of loops in python
+# **Experiment 7: Study of Loops in Python**
 
-## Aim
+## **Aim**
 
 To study and implement looping statements in Python and understand repetition of statements using different loop constructs.
 
-## Objectives
+## **Objectives**
 
 * To understand the concept of loops
 * To implement `for` and `while` loops
 * To use nested loops
 * To apply loop control statements like `break`, `continue`, and `pass`
 * To solve real-life programming problems using loops
+
   
-## Theory
- While Loop
+## **Theory on Loops**
 
-A while loop executes as long as a condition remains true.
-Used when the number of iterations is unknown.
+Loops in Python are used to execute a block of code repeatedly until a specified condition is satisfied. They help in reducing code repetition and making programs more efficient.
 
+Python mainly provides two types of loops:
 
-Programs Implemented
+* `for` loop
+* `while` loop
 
-Print numbers (1–5)
+The `for` loop is generally used when the number of iterations is known in advance. It works with sequences like lists, tuples, strings, and ranges.
 
-User-defined iterations
+The `while` loop is used when the number of iterations depends on a condition. It runs as long as the condition remains `True`.
 
-Factorial calculation
+Python also provides loop control statements such as:
 
-Fibonacci series
+* `break` → Terminates the loop
+* `continue` → Skips the current iteration
+* `pass` → Acts as a placeholder
 
-Reverse a number
+Indentation plays an important role in defining the scope of loops.
 
-Count digits
 
-Searching elements
+## **Types of Loops**
 
- For Loop
+* `for` loop
+* `while` loop
+* Nested loops
+* Loop control statements
 
-A for loop iterates over sequences such as ranges, lists, or strings.
 
-Syntax
- 
-for variable in range():
-    statements
+# **Loop Algorithms**
 
+## **Algorithm 1: Print Numbers from 1 to 5 (Using for Loop)**
 
-Programs Implemented
+1. Start
+2. Use `range(1, 6)` to generate numbers from 1 to 5
+3. Repeat for each number in the range
+4. Print the number
+5. Stop
 
-Print numbers
+---
 
-Even numbers
+## **Algorithm 2: Print Elements of a List**
 
-Sum of first n numbers
+1. Start
+2. Create a list of numbers
+3. Repeat for each element in the list
+4. Print the element
+5. Stop
 
-Prime number check
+---
 
-Armstrong number
+## **Algorithm 3: Print Numbers from 1 to 5 (Using while Loop)**
 
-Pattern printing
+1. Start
+2. Initialize variable `i = 1`
+3. Check if `i <= 5`
+4. If true, print `i`
+5. Increment `i` by 1
+6. Repeat steps 3–5 until condition becomes false
+7. Stop
 
- Break Statement
+---
 
-Stops loop execution immediately.
+## **Algorithm 4: Print Right-Angled Triangle Pattern**
 
-Example 
+1. Start
+2. Use outer loop from 1 to 5
+3. For each iteration of outer loop, run inner loop
+4. Print `*` equal to current row number
+5. Move to next line
+6. Stop
 
-Exit loop when value becomes 3.
+---
 
-Stop searching when element is found.
+## **Algorithm 5: Using break Statement**
 
- Continue Statement
+1. Start
+2. Run loop from 1 to 5
+3. Check if number equals 3
+4. If yes, terminate the loop using `break`
+5. Otherwise, print the number
+6. Stop
 
-Skips current iteration and moves to the next.
+---
 
-Example 
+## **Algorithm 6: Using continue Statement**
 
-Skip number 5.
+1. Start
+2. Run loop from 1 to 5
+3. Check if number equals 3
+4. If yes, skip current iteration using `continue`
+5. Otherwise, print the number
+6. Stop
 
-Print only odd numbers.
 
- Nested Loops
+## Program 1: Simple for Loop
 
-A loop inside another loop.
+```python
+for i in range(1, 6):
+    print(i)
+```
 
-#### Applications in Project
 
-Matrix display
+## Program 2: for Loop with List
 
-Matrix multiplication
+```python
+numbers = [10, 20, 30, 40]
 
-Digit combinations
+for num in numbers:
+    print(num)
+```
 
-Pattern printing
 
- Algorithms (Examples)
+## Program 3: while Loop
 
+```python
+i = 1
 
- Algorithm: Factorial Using While Loop
+while i <= 5:
+    print(i)
+    i += 1
+```
 
-Start
 
-Input number n
+## Program 4: Nested Loop (Right-Angled Triangle)
 
-Initialize fact = 1 and i = 1
+```python
+for i in range(1, 6):
+    for j in range(i):
+        print("*", end="")
+    print()
+```
 
-Repeat while i ≤ n
+## Program 5: Loop Control Statements
 
-Multiply fact by i
+### Using break
 
-Increment i
+```python
+for i in range(1, 6):
+    if i == 3:
+        break
+    print(i)
+```
 
-Print factorial
+### Using continue
 
-Stop
+```python
+for i in range(1, 6):
+    if i == 3:
+        continue
+    print(i)
+```
 
- Algorithm: Fibonacci Series
 
-Input number of terms
+## **Applications of Loops**
 
-Initialize first two numbers
+* Printing patterns
+* Iterating through lists and strings
+* Calculating sums and averages
+* Checking prime numbers
+* Menu-driven programs
+* Repetitive real-life tasks
 
-Repeat loop n times
-
-Print current number
-
-Update next term
-
-Stop
-
- Algorithm: Search Element in List
-
-Take list and input value
-
-Start loop from index 0
-
-Compare each element
-
-If found → print position and break
-
-If loop ends → print not found
-
- Flowchart (While Loop)
-
-Start 
-
-  ↓
-Initialize variable 
-
-  ↓
-Check condition
-
-  ↓ Yes
-  
-Execute statements
-
-  ↓
-Increment variable
-
-  ↓
-Repeat
-
-  ↓ No
-  
-Stop
-
- Flowchart (Nested Loop Example)
-
-Start
-
-  ↓
-  
-Outer Loop (rows)
-
-  ↓
-Inner Loop (columns)
-
-  ↓
-  
-Print values
-
-  ↓
-  
-Repeat inner loop
-
-  ↓
-  
-Repeat outer loop
-
-  ↓
-  
-Stop
-
-##  Conclusion
+##  **Conclusion**
 
 Loops form the backbone of programming logic in Python. Through various examples such as factorials, Fibonacci series, matrix multiplication, and pattern printing, this project demonstrates how loops simplify repetitive tasks and improve coding efficiency. Mastering loops is essential for developing strong programming skills.
