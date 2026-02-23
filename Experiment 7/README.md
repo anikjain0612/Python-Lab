@@ -7,23 +7,7 @@ Loops are an essential concept in Python programming used to execute a block of 
 
 This project demonstrates the practical use of while loops and for loops through multiple programs such as mathematical calculations, number operations, searching, matrix operations, and pattern printing.
 
-## Python mainly provides:
-
-while loop
-
-for loop
-
-along with control statements like:
-
-break
-
-continue
-
-if conditions
-
-nested loops
-
-## Study of Loops 
+## Objectives 
 
 Understand iteration using while and for loops
 
@@ -63,7 +47,7 @@ pattern generation
 
 number-based algorithms
 
-## Theory (Loops in Python)
+## Theory
  While Loop
 
 A while loop executes as long as a condition remains true.
