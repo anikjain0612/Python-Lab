@@ -1,4 +1,4 @@
-# **Experiment 7: Study of Loops in Python**
+# **Experiment 7: To study Loops in Python**
 
 ## **Aim**
 
