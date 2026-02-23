@@ -66,7 +66,7 @@ pattern generation
 number-based algorithms
 
 ## Theory (Loops in Python)
-1️⃣ While Loop
+ While Loop
 
 A while loop executes as long as a condition remains true.
 Used when the number of iterations is unknown.
@@ -88,7 +88,7 @@ Count digits
 
 Searching elements
 
-2️⃣ For Loop
+ For Loop
 
 A for loop iterates over sequences such as ranges, lists, or strings.
 
@@ -112,7 +112,7 @@ Armstrong number
 
 Pattern printing
 
-3️⃣ Break Statement
+ Break Statement
 
 Stops loop execution immediately.
 
@@ -122,7 +122,7 @@ Exit loop when value becomes 3.
 
 Stop searching when element is found.
 
-4️⃣ Continue Statement
+ Continue Statement
 
 Skips current iteration and moves to the next.
 
@@ -132,7 +132,7 @@ Skip number 5.
 
 Print only odd numbers.
 
-5️⃣ Nested Loops
+ Nested Loops
 
 A loop inside another loop.
 
@@ -146,10 +146,10 @@ Digit combinations
 
 Pattern printing
 
-🧠 Algorithms (Examples)
+ Algorithms (Examples)
 
 
-✅ Algorithm: Factorial Using While Loop
+ Algorithm: Factorial Using While Loop
 
 Start
 
@@ -167,7 +167,7 @@ Print factorial
 
 Stop
 
-✅ Algorithm: Fibonacci Series
+ Algorithm: Fibonacci Series
 
 Input number of terms
 
@@ -181,7 +181,7 @@ Update next term
 
 Stop
 
-✅ Algorithm: Search Element in List
+ Algorithm: Search Element in List
 
 Take list and input value
 
@@ -193,7 +193,7 @@ If found → print position and break
 
 If loop ends → print not found
 
-🔄 Flowchart (While Loop)
+ Flowchart (While Loop)
 
 Start 
 
@@ -217,7 +217,7 @@ Repeat
   
 Stop
 
-🔄 Flowchart (Nested Loop Example)
+ Flowchart (Nested Loop Example)
 
 Start
 
@@ -245,9 +245,9 @@ Repeat outer loop
 Stop
 
 
-# 🧮 Programs Included
+#  Programs Included
 
-## 🔢 Number Programs
+##  Number Programs
 
 ### Factorial
 
@@ -261,11 +261,11 @@ Stop
 
 ### Prime number check
 
-## 🔍 Searching
+##  Searching
 
 ### Search PRN in list
 
-## 🧾 Mathematical Operations
+##  Mathematical Operations
 
 ### Sum of first n numbers
 
@@ -273,7 +273,7 @@ Stop
 
 ### Matrix multiplication
 
-## 🔺 Pattern Programs
+##  Pattern Programs
 
 ### Pyramid
 
@@ -285,7 +285,7 @@ Stop
 
 ### Number repetition pattern
 
-## ✅ Advantages of Loops
+##  Advantages of Loops
 
 ### Reduces repetition of code
 
@@ -297,7 +297,7 @@ Stop
 
 ### Makes logic reusable
 
-## ❌ Disadvantages of Loops
+##  Disadvantages of Loops
 
 ### Infinite loop risk
 
@@ -315,7 +315,7 @@ Stop
 
 ### Command Prompt / Terminal
 
-## 📂 Applications of Loops
+##  Applications of Loops
 
 ### Mathematical computations
 
@@ -331,6 +331,6 @@ Stop
 
 ### Automation tasks
 
-## 🎯 Conclusion
+##  Conclusion
 
 Loops form the backbone of programming logic in Python. Through various examples such as factorials, Fibonacci series, matrix multiplication, and pattern printing, this project demonstrates how loops simplify repetitive tasks and improve coding efficiency. Mastering loops is essential for developing strong programming skills.
