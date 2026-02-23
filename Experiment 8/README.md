@@ -1,7 +1,4 @@
-# Experiment 8- Tools in EDA: Study of NumPy Library
-
-
-
+# Experiment 8: Study of NumPy Library
 
 ## Objectives
 
