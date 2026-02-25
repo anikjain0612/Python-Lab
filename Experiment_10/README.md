@@ -27,7 +27,7 @@ By loading the `Cars93.csv` dataset, we move from small, perfect datasets to lar
 
 ---
 
-## 4. Algorithms
+##  Algorithms
 
 ### 1. Custom Dataset Creation and Export
 1. Define a dictionary where keys represent headers (Roll No, Gender, Dept, CGPA) and values represent the records.
