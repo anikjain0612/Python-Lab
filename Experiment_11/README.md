@@ -1,7 +1,5 @@
 # Experiment 11: Categorical Data Analysis Using Python
 
----
-
 ## Aim
 
 To analyze categorical data using Python and the Pandas library by performing operations such as frequency counting, cross-tabulation, grouping, filtering, and percentage distribution.
