@@ -1,7 +1,5 @@
 # Experiment 12: Data Wrangling Using Python
 
----
-
 ## Aim
 
 To carry out data wrangling using Python and the Pandas library by cleaning, transforming, and restructuring raw data into a well-organized format that is suitable for reliable analysis and informed decision-making.
