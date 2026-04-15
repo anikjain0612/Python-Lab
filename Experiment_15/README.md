@@ -8,6 +8,8 @@ To implement NLP texts on Text data in Python
 ## Tools Used:
 Google Colab or Jupyter Notebook
 
+---
+
 ## Theory:
 
 ## Natural Language Processing:
