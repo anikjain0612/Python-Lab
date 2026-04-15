@@ -10,9 +10,7 @@ Google Colab or Jupyter Notebook
 
 ---
 
-## Theory:
-
-## Natural Language Processing:
+## Theory: Natural Language Processing:
 
 Natural Language Processing (NLP) is a branch of Artificial Intelligence that allows computers to understand, interpret, and generate human language. It serves as a bridge between human communication and machine data processing.
 A list is a built-in data type in Python that can store multiple data types inside one variable. It is considered a dynamic placeholder for various data types in a specific order. 
