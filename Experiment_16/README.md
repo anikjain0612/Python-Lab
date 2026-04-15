@@ -12,13 +12,13 @@ Google Colab or Jupyter Notebook
 
 ## Theory:
 
-### Matplotlib
+### 1. Matplotlib 
 
 Matplotlib is the foundational library in Python, which is used to create static and creative visualizations. It provides an object-oriented interface that allows granular control over every element of the figure, which includes axes, labels, line styles, edge color, etc. It is designed to resemble MATLAB's plotting capabilities. 
 
 It is widely used for generating publication-quality plots such as line graphs, scatter plots, and histograms. While it is incredibly powerful, creating complex visualizations often requires writing extensive code to manage fine details. It serves as the base upon which many other specialized plotting libraries are built.
 
-### Seaborn
+### 2. Seaborn
 
 It is the high-level data visualization library built on Matplotlib, which is used for advanced statistical graphs. It simplifies the creation of complex plots by providing a more concise syntax and integrating seamlessly with Pandas DataFrames. 
 
