@@ -1,4 +1,4 @@
-# Experiment 14 : Data Normalization and Data Type Conversion
+# Experiment 14: Data Normalization and Data Type Conversion
 
 ## Aim
 
