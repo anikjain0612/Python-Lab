@@ -1,4 +1,4 @@
-# Experiment 15 : NLP Techniques in Python
+# Experiment 15: NLP Techniques in Python
 
 Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to understand, interpret, and generate human language in a way that is both meaningful and contextually relevant. 
 
