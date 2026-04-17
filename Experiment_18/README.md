@@ -1,4 +1,4 @@
-# **Experiment 18 : Advanced Visualizations: Hierarchical, Interactive, and Multi-Dimensional Charts**
+# **Experiment 18: Advanced Visualizations: Hierarchical, Interactive, and Multi-Dimensional Charts**
 
 ## Aim
 
