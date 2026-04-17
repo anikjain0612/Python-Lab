@@ -1,4 +1,4 @@
-# Experiment 16 : Basic Charts and Visual Encoding
+# Experiment 16: Basic Charts and Visual Encoding
 
 ## Aim:
 
